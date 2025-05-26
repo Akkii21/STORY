@@ -1,1 +1,1 @@
-discipline == profitable 
+discipline == profitable . Profitable trader is a disciplined trader
